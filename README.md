@@ -1,2 +1,3 @@
-# case-study-04-face-recognition
-Proyek Face Recognition 30 seleb MobileNetV2 selesai: EDA, TL, 89% acc &amp; Prediksi umum: input foto wajah → model mengeluarkan label &amp; confidence 30 selebriti dalam 0,2 detik.
+# Case Study 04 – Face Recognition
+MobileNetV2 transfer-learning, 30 celebrity, 89 % test acc.  
+Run: `pip install -r 02-requirements.txt` → `jupyter notebook 01-notebook.ipynb`
